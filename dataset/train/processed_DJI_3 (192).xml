@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images3</folder>
+	<filename>processed_DJI_3 (192).JPG</filename>
+	<path>D:\User Files\PycharmProjects\fire_hazard\assets\images3\processed_DJI_3 (192).JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1500</width>
+		<height>1000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>branches</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1162</xmin>
+			<ymin>140</ymin>
+			<xmax>1230</xmax>
+			<ymax>172</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>branches</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1388</xmin>
+			<ymin>19</ymin>
+			<xmax>1447</xmax>
+			<ymax>70</ymax>
+		</bndbox>
+	</object>
+</annotation>
